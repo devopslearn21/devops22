@@ -1,3 +1,3 @@
 # devops22
 
-#for git purpose
+#for Devops and aws practice
